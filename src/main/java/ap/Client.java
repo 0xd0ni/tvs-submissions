@@ -1,4 +1,4 @@
-
+package ap;
 
 public enum ClientLevel { NORMAL, GOLD, PLATINUM }
 
@@ -28,6 +28,6 @@ public class Client {
     // computes the unit call of voice communications made by these client
     public int computeCallUnitCost() { /* .... */ }
 
-    // TODO: add other methods 
+    // TODO: add other methods
 
 }
