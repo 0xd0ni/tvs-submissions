@@ -15,7 +15,7 @@ This repository contains coursework developed in the [Software Testing and Valid
 
 ## Getting Started
 
-The existing repository system is composed of various modules, each represented by a dedicated folder. Within this structure, the prominent folders consist of the following:
+The existing repository is composed of various modules, each represented by a dedicated folder. Within this structure, the prominent folders consist of the following:
 
 [presentation](../main/presentation) serving as the home for presentation slides pertaining to the research paper titled ["On the Predictability of Random Tests for Object-Oriented Software"](../main/presentation/docs/On_the_Predictability_of_Random_Tests_fo.pdf).
 
