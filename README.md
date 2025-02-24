@@ -9,7 +9,7 @@ This repository contains coursework developed in the [Software Testing and Valid
 
 | Name              | User                                      | Email                                        |
 |-------------------|-------------------------------------------|----------------------------------------------|
-| Allan Fernandes   | <https://github.com/acravid>              | <mailto:allancravid@tecnico.ulisboa.pt>      |
+| Allan Fernandes   | <https://github.com/0xd0ni>              | <mailto:allancravid@tecnico.ulisboa.pt>      |
 | João Salgueiro | https://github.com/JASalgueiro          | <mailto:joao.cunha.salgueiro@tecnico.ulisboa.pt>   |
 | Miguel Prazeres   | https://github.com/ZeDoPAV1          | <mailto:miguel.neves.reis.prazeres@tecnico.ulisboa.pt>   |
 
